@@ -14,6 +14,7 @@ AI portfolio by [Leonardo Cardoso](https://github.com/leonardocardoso). Five pil
 
 ### Open source
 
+- **[`chat`](https://github.com/a7t-ai/chat)** Self-hosted AI chat for everyone in your house. Your local models, passkey sign-in, no cloud.
 - **[`jano`](https://github.com/a7t-ai/jano)** Local-first LLM router and queue. Two models, one GPU, zero cloud.
 - **[`slipway`](https://github.com/a7t-ai/slipway)** Self-publishing toolkit for iOS apps. Turns a vanilla Xcode project into one that ships releases on its own.
 
@@ -25,5 +26,3 @@ AI portfolio by [Leonardo Cardoso](https://github.com/leonardocardoso). Five pil
 ### Articles
 
 Deep dives behind every project at [a7t.ai/articles](https://a7t.ai/articles), in English and Portuguese.
-
-Berlin · EN / PT
